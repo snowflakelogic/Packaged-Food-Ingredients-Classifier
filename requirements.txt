@@ -1,0 +1,10 @@
+# Streamlit and necessary libraries
+streamlit==1.26.0
+pandas==1.5.3
+joblib==1.2.0
+easyocr==1.6.2
+numpy==1.23.5
+Pillow==9.5.0
+torch==1.13.1
+torchvision==0.15.1  # Updated version compatible with Python 3.11
+opencv-python-headless==4.5.4.60  # Compatible with easyocr==1.6.2
