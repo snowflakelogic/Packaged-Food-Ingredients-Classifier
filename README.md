@@ -6,7 +6,12 @@ A lightweight machine‑learning + OCR tool that helps Indian consumers instantl
 
 ## 📌 Why I Built This
 
-With India’s growing appetite for ready‑to‑eat chips, namkeens, and other packaged foods, many shoppers can’t decode complicated ingredient lists. My goal is to make transparent, data‑backed food decisions effortless.
+With India’s growing appetite for ready-to-eat chips, namkeens, and other packaged foods, many shoppers struggle to decode complicated ingredient lists.
+
+Most publicly available food classification datasets are built around Western ingredients — and don’t include many commonly used Indian ones.  
+There’s a visible gap when it comes to Indian packaged food classifiers.
+
+My goal is to bridge that gap and make transparent, data-backed food decisions easier for Indian consumers.
 
 ---
 
