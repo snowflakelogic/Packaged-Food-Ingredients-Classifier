@@ -101,6 +101,6 @@ Thanks to my biology‑student friends for ingredient insights and to open nutri
 
 ---
 
-## 📬 Contact
-
-**LinkedIn:** *your‑profile* | **Email:** [*you@example.com*](mailto:you@example.com)
+**Maintained by**: snowflakelogic  
+**Last Updated**: June 2025  
+**Developed in 2024 - Uploaded here in June 2025**
