@@ -36,7 +36,7 @@ My goal is to bridge that gap and make transparent, data-backed food decisions e
 | Step             | Details                                            |
 | ---------------- | -------------------------------------------------- |
 | Text prep        | tokenisation • stop‑word removal                   |
-| Algorithms tried | Logistic Regression • Random Forest • SVM          |
+| Algorithms tried | Logistic Regression        |
 | Final pick       | Logistic Regression (best F1 on custom test split) |
 | Accuracy         | **81.25 %** (on 16-test sample size)               |
 
